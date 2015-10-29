@@ -4,3 +4,6 @@ a
 test
 file
 !
+ww
+asdf
+remote
